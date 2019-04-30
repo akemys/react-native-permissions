@@ -23,5 +23,8 @@
     "husky": "^0.14.3",
     "lint-staged": "^6.0.0",
     "prettier": "^1.9.2"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.2.2"
   }
 }
